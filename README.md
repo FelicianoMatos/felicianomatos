@@ -3,7 +3,7 @@ Olá! Eu sou o Feliciano Matos 👋
 
 
 - 🔭 Procurando primeiro emprego em Programação
-- 🌱 Estudando Angular
+- 🌱 Estudando Angular e React
 - 😄 Pronouns: ele/dele
 
 <div align="center">
